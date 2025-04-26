@@ -1,7 +1,7 @@
 """Subscribe to messages on topic"""
  
 
-import paho.mqtt.client as mqtt
+import paho.mqtt.client as mqtt 
 
 # MQTT settings
 broker_url = "localhost"
