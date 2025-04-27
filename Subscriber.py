@@ -9,7 +9,7 @@ broker_port = 18083
 username = "Irumva"
 password = "GishushuAuca@2025"
 topic = "auca_class"
-client_id = "my_mqtt_client"
+client_id = "my_mqtt_client" 
 
 # Callback when the client receives a CONNACK response from the server
 def on_connect(client, userdata, flags, rc):
