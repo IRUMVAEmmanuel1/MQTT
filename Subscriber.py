@@ -3,7 +3,7 @@
 
 import paho.mqtt.client as mqtt 
 
-# MQTT settings
+# MQTT settings 
 broker_url = "localhost"
 broker_port = 18083
 username = "Irumva"
