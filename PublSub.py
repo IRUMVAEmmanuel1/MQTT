@@ -1,7 +1,7 @@
 """
 Combined MQTT Publisher and Subscriber script.
 Run both functionalities in parallel using threading.
-"""
+""" 
   
 import paho.mqtt.client as mqtt
 import threading
